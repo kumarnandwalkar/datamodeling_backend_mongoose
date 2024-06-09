@@ -1,0 +1,8 @@
+first we will not directly think of how we will put data in the todo, that is the work of controller
+we'll do that later
+first we will think of how we can store that data
+
+there are only 3 steps for creating a schema/model
+1. import mongoose
+2. define schema (data and timestamps)
+3. export model
